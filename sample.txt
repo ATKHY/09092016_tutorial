@@ -1,3 +1,4 @@
 The "git" comand which even the monkeys also can understand."
 -- add "new wordings" --
 -- commit "sth" --
+-- pull "the thing" --
