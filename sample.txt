@@ -1,1 +1,2 @@
-The "git" comand which even the monkeys also can understand.
+The "git" comand which even the monkeys also can understand."
+-- add "new wordings" --
